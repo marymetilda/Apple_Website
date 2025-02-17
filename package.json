@@ -14,6 +14,8 @@
     "@react-three/drei": "^9.121.5",
     "@react-three/eslint-plugin": "^0.1.2",
     "@react-three/fiber": "^8.17.14",
+    "@sentry/react": "^9.1.0",
+    "@sentry/vite-plugin": "^3.1.2",
     "gsap": "^3.12.7",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
